@@ -1,8 +1,8 @@
 ## Hello 👋, i exist.
 ### ❌ I cannot
-❌ -> Fix your printer   
-❌ -> Focus on anything    
-❌ -> Use dark magic to make your darkest dreams come true   
+* ❌ Fix your printer   
+* ❌ Focus on anything    
+* ❌ Use dark magic to make your darkest dreams come true   
    
 ### ✔ I can:
 ✔ -> Write bad code   
