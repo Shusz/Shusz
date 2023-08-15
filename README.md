@@ -4,9 +4,9 @@
 ❌ ➡ Focus on anything   
 ❌ ➡ Use dark magic to make your darkest dreams come true   
    
-### ✅ I can:   
-✅➡ Write bad code   
-✅➡ Be unmotivated   
+### ✔ I can:   
+✔➡ Write bad code   
+✔➡ Be unmotivated   
    
 ### 🚮 Programming languages i am trash at:   
 TypeScript   
