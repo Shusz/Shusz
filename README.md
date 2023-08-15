@@ -18,9 +18,9 @@
 * 📜 Bash   
    
 ### ✨ Controversial opinions: ✨   
-🔙 2000-2015 was a better time   
-🧒 Anime is cringe   
-💩 The internet today is shit   
+* 🔙 2000-2015 was a better time   
+* 🧒 Anime is cringe   
+* 💩 The internet today is shit   
 <!--
 **Shusz/Shusz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
