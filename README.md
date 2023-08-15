@@ -1,4 +1,4 @@
-## Hello 👋, i exist.  
+## Hello 👋, i exist.
 ### ❌ I cannot
 ❌ -> Fix your printer   
 ❌ -> Focus on anything    
