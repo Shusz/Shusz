@@ -1,28 +1,28 @@
 ### Hello, i exist.  
-❌I cannot:  
-❌➡Fix your printer  
-❌➡Focus on anything  
-❌➡Use dark magic to make your darkest dreams come true  
-  
-✅I can:  
-✅➡Write bad code  
-✅➡Be unmotivated  
-  
-Programming languages i am trash at:  
-⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇  
-TypeScript  
-JavaScript  
-Python  
-  
-Programming languages i _somehow_ want to learn:  
-⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇  
-Go  
-Rust  
-C(++)  
-Bash  
-  
-✨ Controversial opinions: ✨  
-⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇  
+❌I cannot:   
+❌➡Fix your printer   
+❌➡Focus on anything   
+❌➡Use dark magic to make your darkest dreams come true   
+   
+✅I can:   
+✅➡Write bad code   
+✅➡Be unmotivated   
+   
+Programming languages i am trash at:   
+⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇   
+TypeScript   
+JavaScript   
+Python   
+   
+Programming languages i _somehow_ want to learn:   
+⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇   
+Go   
+Rust   
+C(++)   
+Bash   
+   
+✨ Controversial opinions: ✨   
+⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇   
 2000-2015 was a better time  
 Anime is cringe  
 The internet today is shit  
