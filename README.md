@@ -7,11 +7,11 @@
 ### ✔️ I can:
 * ✔️ Write bad code   
 * ✔️ Be unmotivated
-### 🚮 Programming languages i am trash at:
+### 🚮 Programming languages i know of:
 * ⌨️ TypeScript   
 * ☕ JavaScript   
 * 🐍 Python   
-### 🤓 Programming languages i _somehow_ want to learn:
+### 🤓 Programming languages i want to learn but have no time nor motivation for:
 * 🐹 Go
 * 🦀 Rust    
 * 🗒️ C(++)   
